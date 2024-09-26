@@ -1,0 +1,7 @@
+@article{Zhang2024CoOccurrenceRD,
+  title={Co-Occurrence Relationship Driven Hierarchical Attention Network for Brain CT Report Generation},
+  author={Xiaodan Zhang and Shixin Dou and Junzhong Ji and Ying Liu and Zheng Wang},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:270605296}
+}
