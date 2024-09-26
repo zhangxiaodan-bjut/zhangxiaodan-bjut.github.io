@@ -1,0 +1,17 @@
+@article{DBLP:journals/tip/JiXZWS20,
+  author       = {Junzhong Ji and
+                  Cheng Xu and
+                  Xiaodan Zhang and
+                  Boyue Wang and
+                  Xinhang Song},
+  title        = {Spatio-Temporal Memory Attention for Image Captioning},
+  journal      = {{IEEE} Trans. Image Process.},
+  volume       = {29},
+  pages        = {7615--7628},
+  year         = {2020},
+  url          = {https://doi.org/10.1109/TIP.2020.3004729},
+  doi          = {10.1109/TIP.2020.3004729},
+  timestamp    = {Thu, 06 Aug 2020 21:48:26 +0200},
+  biburl       = {https://dblp.org/rec/journals/tip/JiXZWS20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
