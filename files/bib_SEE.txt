@@ -1,0 +1,18 @@
+@article{DBLP:journals/ijon/ZhangHSLJY20,
+  author       = {Xiaodan Zhang and
+                  Shengfeng He and
+                  Xinhang Song and
+                  Rynson W. H. Lau and
+                  Jianbin Jiao and
+                  Qixiang Ye},
+  title        = {Image captioning via semantic element embedding},
+  journal      = {Neurocomputing},
+  volume       = {395},
+  pages        = {212--221},
+  year         = {2020},
+  url          = {https://doi.org/10.1016/j.neucom.2018.02.112},
+  doi          = {10.1016/J.NEUCOM.2018.02.112},
+  timestamp    = {Mon, 05 Feb 2024 20:20:41 +0100},
+  biburl       = {https://dblp.org/rec/journals/ijon/ZhangHSLJY20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
