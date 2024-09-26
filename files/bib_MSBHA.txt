@@ -1,0 +1,17 @@
+@article{DBLP:journals/jvcir/SongZJL23,
+  author       = {Xiao Song and
+                  Xiaodan Zhang and
+                  Junzhong Ji and
+                  Ying Liu},
+  title        = {Multi-scale Superpixel based Hierarchical Attention model for brain
+                  {CT} classification},
+  journal      = {J. Vis. Commun. Image Represent.},
+  volume       = {91},
+  pages        = {103773},
+  year         = {2023},
+  url          = {https://doi.org/10.1016/j.jvcir.2023.103773},
+  doi          = {10.1016/J.JVCIR.2023.103773},
+  timestamp    = {Mon, 26 Jun 2023 20:54:46 +0200},
+  biburl       = {https://dblp.org/rec/journals/jvcir/SongZJL23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

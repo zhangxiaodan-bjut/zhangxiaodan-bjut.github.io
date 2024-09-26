@@ -1,0 +1,38 @@
+@inproceedings{DBLP:conf/coling/SongZJLW22,
+  author       = {Xiao Song and
+                  Xiaodan Zhang and
+                  Junzhong Ji and
+                  Ying Liu and
+                  Pengxu Wei},
+  editor       = {Nicoletta Calzolari and
+                  Chu{-}Ren Huang and
+                  Hansaem Kim and
+                  James Pustejovsky and
+                  Leo Wanner and
+                  Key{-}Sun Choi and
+                  Pum{-}Mo Ryu and
+                  Hsin{-}Hsi Chen and
+                  Lucia Donatelli and
+                  Heng Ji and
+                  Sadao Kurohashi and
+                  Patrizia Paggio and
+                  Nianwen Xue and
+                  Seokhwan Kim and
+                  Younggyun Hahm and
+                  Zhong He and
+                  Tony Kyungil Lee and
+                  Enrico Santus and
+                  Francis Bond and
+                  Seung{-}Hoon Na},
+  title        = {Cross-modal Contrastive Attention Model for Medical Report Generation},
+  booktitle    = {Proceedings of the 29th International Conference on Computational
+                  Linguistics, {COLING} 2022, Gyeongju, Republic of Korea, October 12-17,
+                  2022},
+  pages        = {2388--2397},
+  publisher    = {International Committee on Computational Linguistics},
+  year         = {2022},
+  url          = {https://aclanthology.org/2022.coling-1.210},
+  timestamp    = {Mon, 26 Jun 2023 20:44:52 +0200},
+  biburl       = {https://dblp.org/rec/conf/coling/SongZJLW22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
