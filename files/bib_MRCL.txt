@@ -1,0 +1,10 @@
+@article{shi2024prior,
+  title={Prior tissue knowledge-driven contrastive learning for brain CT report generation},
+  author={Shi, Yanzhao and Ji, Junzhong and Zhang, Xiaodan and Liu, Ying and Wang, Zheng and Xu, Huimin},
+  journal={Multimedia Systems},
+  volume={30},
+  number={2},
+  pages={1--14},
+  year={2024},
+  publisher={Springer}
+}
