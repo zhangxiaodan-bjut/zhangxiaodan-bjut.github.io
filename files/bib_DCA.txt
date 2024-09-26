@@ -1,0 +1,15 @@
+@article{DBLP:journals/pr/JiDZ21,
+  author       = {Junzhong Ji and
+                  Zhuoran Du and
+                  Xiaodan Zhang},
+  title        = {Divergent-convergent attention for image captioning},
+  journal      = {Pattern Recognit.},
+  volume       = {115},
+  pages        = {107928},
+  year         = {2021},
+  url          = {https://doi.org/10.1016/j.patcog.2021.107928},
+  doi          = {10.1016/J.PATCOG.2021.107928},
+  timestamp    = {Fri, 22 Mar 2024 08:55:32 +0100},
+  biburl       = {https://dblp.org/rec/journals/pr/JiDZ21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
