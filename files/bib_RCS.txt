@@ -1,0 +1,17 @@
+@article{DBLP:journals/ijon/JiWZLQ22,
+  author       = {Junzhong Ji and
+                  Mingzhan Wang and
+                  Xiaodan Zhang and
+                  Minglong Lei and
+                  Liangqiong Qu},
+  title        = {Relation constraint self-attention for image captioning},
+  journal      = {Neurocomputing},
+  volume       = {501},
+  pages        = {778--789},
+  year         = {2022},
+  url          = {https://doi.org/10.1016/j.neucom.2022.06.062},
+  doi          = {10.1016/J.NEUCOM.2022.06.062},
+  timestamp    = {Mon, 05 Feb 2024 20:20:42 +0100},
+  biburl       = {https://dblp.org/rec/journals/ijon/JiWZLQ22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
