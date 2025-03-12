@@ -1,0 +1,17 @@
+@article{DBLP:journals/tip/ZhangJJQY25,
+  author       = {Xiaodan Zhang and
+                  Aozhe Jia and
+                  Junzhong Ji and
+                  Liangqiong Qu and
+                  Qixiang Ye},
+  title        = {Intra- and Inter-Head Orthogonal Attention for Image Captioning},
+  journal      = {{IEEE} Trans. Image Process.},
+  volume       = {34},
+  pages        = {594--607},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/TIP.2025.3528216},
+  doi          = {10.1109/TIP.2025.3528216},
+  timestamp    = {Fri, 07 Mar 2025 18:30:10 +0100},
+  biburl       = {https://dblp.org/rec/journals/tip/ZhangJJQY25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
